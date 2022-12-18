@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671405423 source:c:\users\win-x\desktop\recuperativa paralela\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<vector>
+	<string>
+	<cmath>
+	<sstream>
+

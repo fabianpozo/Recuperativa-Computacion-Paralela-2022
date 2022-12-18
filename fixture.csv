@@ -1,0 +1,307 @@
+Date;Local Team;Visiting Team;Distance (m)
+1;"Audax Italiano";"Cobresal";815628
+1;"Audax Italiano";"Colo-Colo";4586
+1;"Audax Italiano";"Coquimbo Unido";404021
+1;"Audax Italiano";"Curico Unido";170302
+1;"Audax Italiano";"Deportes Antofagasta";1.0977e+06
+1;"Audax Italiano";"Deportes La Serena";408600
+1;"Audax Italiano";"Everton";106465
+1;"Audax Italiano";"Huachipato";424979
+1;"Audax Italiano";"Nublense";369367
+1;"Audax Italiano";"O'Higgins";72333.8
+1;"Audax Italiano";"Palestino";9032.25
+1;"Audax Italiano";"Santiago Wanderers";114299
+1;"Audax Italiano";"Union Espanola";16900.8
+1;"Audax Italiano";"Union La Calera";102086
+1;"Audax Italiano";"Universidad Catolica";17648.7
+1;"Audax Italiano";"Universidad de Chile";8996.96
+1;"Audax Italiano";"Universidad de Concepcion";426515
+2;"Cobresal";"Audax Italiano";815628
+2;"Cobresal";"Colo-Colo";812152
+2;"Cobresal";"Coquimbo Unido";445635
+2;"Cobresal";"Curico Unido";981883
+2;"Cobresal";"Deportes Antofagasta";297547
+2;"Cobresal";"Deportes La Serena";436919
+2;"Cobresal";"Everton";774150
+2;"Cobresal";"Huachipato";1.21335e+06
+2;"Cobresal";"Nublense";1.17627e+06
+2;"Cobresal";"O'Higgins";887710
+2;"Cobresal";"Palestino";814492
+2;"Cobresal";"Santiago Wanderers";777464
+2;"Cobresal";"Union Espanola";801505
+2;"Cobresal";"Union La Calera";742050
+2;"Cobresal";"Universidad Catolica";798807
+2;"Cobresal";"Universidad de Chile";807559
+2;"Cobresal";"Universidad de Concepcion";1.2176e+06
+3;"Colo-Colo";"Audax Italiano";4586
+3;"Colo-Colo";"Cobresal";812152
+3;"Colo-Colo";"Coquimbo Unido";399819
+3;"Colo-Colo";"Curico Unido";173014
+3;"Colo-Colo";"Deportes Antofagasta";1.09394e+06
+3;"Colo-Colo";"Deportes La Serena";404441
+3;"Colo-Colo";"Everton";102259
+3;"Colo-Colo";"Huachipato";426868
+3;"Colo-Colo";"Nublense";371976
+3;"Colo-Colo";"O'Higgins";75612.9
+3;"Colo-Colo";"Palestino";6394.75
+3;"Colo-Colo";"Santiago Wanderers";110197
+3;"Colo-Colo";"Union Espanola";12370.4
+3;"Colo-Colo";"Union La Calera";97500.6
+3;"Colo-Colo";"Universidad Catolica";15711.3
+3;"Colo-Colo";"Universidad de Chile";4699.84
+3;"Colo-Colo";"Universidad de Concepcion";428500
+4;"Coquimbo Unido";"Audax Italiano";404021
+4;"Coquimbo Unido";"Cobresal";445635
+4;"Coquimbo Unido";"Colo-Colo";399819
+4;"Coquimbo Unido";"Curico Unido";557075
+4;"Coquimbo Unido";"Deportes Antofagasta";706083
+4;"Coquimbo Unido";"Deportes La Serena";10274.8
+4;"Coquimbo Unido";"Everton";339564
+4;"Coquimbo Unido";"Huachipato";772663
+4;"Coquimbo Unido";"Nublense";743193
+4;"Coquimbo Unido";"O'Higgins";471814
+4;"Coquimbo Unido";"Palestino";400334
+4;"Coquimbo Unido";"Santiago Wanderers";341124
+4;"Coquimbo Unido";"Union Espanola";387791
+4;"Coquimbo Unido";"Union La Calera";313723
+4;"Coquimbo Unido";"Universidad Catolica";389616
+4;"Coquimbo Unido";"Universidad de Chile";395137
+4;"Coquimbo Unido";"Universidad de Concepcion";777541
+5;"Curico Unido";"Audax Italiano";170302
+5;"Curico Unido";"Cobresal";981883
+5;"Curico Unido";"Colo-Colo";173014
+5;"Curico Unido";"Coquimbo Unido";557075
+5;"Curico Unido";"Deportes Antofagasta";1.2595e+06
+5;"Curico Unido";"Deportes La Serena";563011
+5;"Curico Unido";"Everton";219730
+5;"Curico Unido";"Huachipato";260413
+5;"Curico Unido";"Nublense";199142
+5;"Curico Unido";"O'Higgins";99421.1
+5;"Curico Unido";"Palestino";169564
+5;"Curico Unido";"Santiago Wanderers";220315
+5;"Curico Unido";"Union Espanola";182301
+5;"Curico Unido";"Union La Calera";243555
+5;"Curico Unido";"Universidad Catolica";187918
+5;"Curico Unido";"Universidad de Chile";177303
+5;"Curico Unido";"Universidad de Concepcion";260712
+6;"Deportes Antofagasta";"Audax Italiano";1.0977e+06
+6;"Deportes Antofagasta";"Cobresal";297547
+6;"Deportes Antofagasta";"Colo-Colo";1.09394e+06
+6;"Deportes Antofagasta";"Coquimbo Unido";706083
+6;"Deportes Antofagasta";"Curico Unido";1.2595e+06
+6;"Deportes Antofagasta";"Deportes La Serena";699034
+6;"Deportes Antofagasta";"Everton";1.04489e+06
+6;"Deportes Antofagasta";"Huachipato";1.47782e+06
+6;"Deportes Antofagasta";"Nublense";1.44895e+06
+6;"Deportes Antofagasta";"O'Higgins";1.16884e+06
+6;"Deportes Antofagasta";"Palestino";1.09566e+06
+6;"Deportes Antofagasta";"Santiago Wanderers";1.04689e+06
+6;"Deportes Antofagasta";"Union Espanola";1.0827e+06
+6;"Deportes Antofagasta";"Union La Calera";1.01641e+06
+6;"Deportes Antofagasta";"Universidad Catolica";1.0815e+06
+6;"Deportes Antofagasta";"Universidad de Chile";1.08927e+06
+6;"Deportes Antofagasta";"Universidad de Concepcion";1.48297e+06
+7;"Deportes La Serena";"Audax Italiano";408600
+7;"Deportes La Serena";"Cobresal";436919
+7;"Deportes La Serena";"Colo-Colo";404441
+7;"Deportes La Serena";"Coquimbo Unido";10274.8
+7;"Deportes La Serena";"Curico Unido";563011
+7;"Deportes La Serena";"Deportes Antofagasta";699034
+7;"Deportes La Serena";"Everton";346117
+7;"Deportes La Serena";"Huachipato";780288
+7;"Deportes La Serena";"Nublense";749997
+7;"Deportes La Serena";"O'Higgins";476901
+7;"Deportes La Serena";"Palestino";405101
+7;"Deportes La Serena";"Santiago Wanderers";347897
+7;"Deportes La Serena";"Union Espanola";392483
+7;"Deportes La Serena";"Union La Calera";319508
+7;"Deportes La Serena";"Universidad Catolica";393963
+7;"Deportes La Serena";"Universidad de Chile";399751
+7;"Deportes La Serena";"Universidad de Concepcion";785088
+8;"Everton";"Audax Italiano";106465
+8;"Everton";"Cobresal";774150
+8;"Everton";"Colo-Colo";102259
+8;"Everton";"Coquimbo Unido";339564
+8;"Everton";"Curico Unido";219730
+8;"Everton";"Deportes Antofagasta";1.04489e+06
+8;"Everton";"Deportes La Serena";346117
+8;"Everton";"Huachipato";439997
+8;"Everton";"Nublense";404095
+8;"Everton";"O'Higgins";148959
+8;"Everton";"Palestino";97961.6
+8;"Everton";"Santiago Wanderers";9828.51
+8;"Everton";"Union Espanola";92321
+8;"Everton";"Union La Calera";40461.1
+8;"Everton";"Universidad Catolica";105168
+8;"Everton";"Universidad de Chile";99477.4
+8;"Everton";"Universidad de Concepcion";443867
+9;"Huachipato";"Audax Italiano";424979
+9;"Huachipato";"Cobresal";1.21335e+06
+9;"Huachipato";"Colo-Colo";426868
+9;"Huachipato";"Coquimbo Unido";772663
+9;"Huachipato";"Curico Unido";260413
+9;"Huachipato";"Deportes Antofagasta";1.47782e+06
+9;"Huachipato";"Deportes La Serena";780288
+9;"Huachipato";"Everton";439997
+9;"Huachipato";"Nublense";90445.1
+9;"Huachipato";"O'Higgins";358044
+9;"Huachipato";"Palestino";422305
+9;"Huachipato";"Santiago Wanderers";436141
+9;"Huachipato";"Union Espanola";434090
+9;"Huachipato";"Union La Calera";474705
+9;"Huachipato";"Universidad Catolica";442467
+9;"Huachipato";"Universidad de Chile";430643
+9;"Huachipato";"Universidad de Concepcion";9995.54
+10;"Nublense";"Audax Italiano";369367
+10;"Nublense";"Cobresal";1.17627e+06
+10;"Nublense";"Colo-Colo";371976
+10;"Nublense";"Coquimbo Unido";743193
+10;"Nublense";"Curico Unido";199142
+10;"Nublense";"Deportes Antofagasta";1.44895e+06
+10;"Nublense";"Deportes La Serena";749997
+10;"Nublense";"Everton";404095
+10;"Nublense";"Huachipato";90445.1
+10;"Nublense";"O'Higgins";298400
+10;"Nublense";"Palestino";368302
+10;"Nublense";"Santiago Wanderers";402101
+10;"Nublense";"Union Espanola";380883
+10;"Nublense";"Union La Calera";434309
+10;"Nublense";"Universidad Catolica";387001
+10;"Nublense";"Universidad de Chile";376192
+10;"Nublense";"Universidad de Concepcion";84525.9
+11;"O'Higgins";"Audax Italiano";72333.8
+11;"O'Higgins";"Cobresal";887710
+11;"O'Higgins";"Colo-Colo";75612.9
+11;"O'Higgins";"Coquimbo Unido";471814
+11;"O'Higgins";"Curico Unido";99421.1
+11;"O'Higgins";"Deportes Antofagasta";1.16884e+06
+11;"O'Higgins";"Deportes La Serena";476901
+11;"O'Higgins";"Everton";148959
+11;"O'Higgins";"Huachipato";358044
+11;"O'Higgins";"Nublense";298400
+11;"O'Higgins";"Palestino";73293.1
+11;"O'Higgins";"Santiago Wanderers";153280
+11;"O'Higgins";"Union Espanola";86284
+11;"O'Higgins";"Union La Calera";160775
+11;"O'Higgins";"Universidad Catolica";89648.9
+11;"O'Higgins";"Universidad de Chile";80172.3
+11;"O'Higgins";"Universidad de Concepcion";358904
+12;"Palestino";"Audax Italiano";9032.25
+12;"Palestino";"Cobresal";814492
+12;"Palestino";"Colo-Colo";6394.75
+12;"Palestino";"Coquimbo Unido";400334
+12;"Palestino";"Curico Unido";169564
+12;"Palestino";"Deportes Antofagasta";1.09566e+06
+12;"Palestino";"Deportes La Serena";405101
+12;"Palestino";"Everton";97961.6
+12;"Palestino";"Huachipato";422305
+12;"Palestino";"Nublense";368302
+12;"Palestino";"O'Higgins";73293.1
+12;"Palestino";"Santiago Wanderers";105635
+12;"Palestino";"Union Espanola";12992.6
+12;"Palestino";"Union La Calera";95465.4
+12;"Palestino";"Universidad Catolica";21161.5
+12;"Palestino";"Universidad de Chile";8512.73
+12;"Palestino";"Universidad de Concepcion";424042
+13;"Santiago Wanderers";"Audax Italiano";114299
+13;"Santiago Wanderers";"Cobresal";777464
+13;"Santiago Wanderers";"Colo-Colo";110197
+13;"Santiago Wanderers";"Coquimbo Unido";341124
+13;"Santiago Wanderers";"Curico Unido";220315
+13;"Santiago Wanderers";"Deportes Antofagasta";1.04689e+06
+13;"Santiago Wanderers";"Deportes La Serena";347897
+13;"Santiago Wanderers";"Everton";9828.51
+13;"Santiago Wanderers";"Huachipato";436141
+13;"Santiago Wanderers";"Nublense";402101
+13;"Santiago Wanderers";"O'Higgins";153280
+13;"Santiago Wanderers";"Palestino";105635
+13;"Santiago Wanderers";"Union Espanola";100674
+13;"Santiago Wanderers";"Union La Calera";48914.6
+13;"Santiago Wanderers";"Universidad Catolica";113850
+13;"Santiago Wanderers";"Universidad de Chile";107624
+13;"Santiago Wanderers";"Universidad de Concepcion";440201
+14;"Union Espanola";"Audax Italiano";16900.8
+14;"Union Espanola";"Cobresal";801505
+14;"Union Espanola";"Colo-Colo";12370.4
+14;"Union Espanola";"Coquimbo Unido";387791
+14;"Union Espanola";"Curico Unido";182301
+14;"Union Espanola";"Deportes Antofagasta";1.0827e+06
+14;"Union Espanola";"Deportes La Serena";392483
+14;"Union Espanola";"Everton";92321
+14;"Union Espanola";"Huachipato";434090
+14;"Union Espanola";"Nublense";380883
+14;"Union Espanola";"O'Higgins";86284
+14;"Union Espanola";"Palestino";12992.6
+14;"Union Espanola";"Santiago Wanderers";100674
+14;"Union Espanola";"Union La Calera";85400.4
+14;"Union Espanola";"Universidad Catolica";14731.9
+14;"Union Espanola";"Universidad de Chile";8041.3
+14;"Union Espanola";"Universidad de Concepcion";435949
+15;"Union La Calera";"Audax Italiano";102086
+15;"Union La Calera";"Cobresal";742050
+15;"Union La Calera";"Colo-Colo";97500.6
+15;"Union La Calera";"Coquimbo Unido";313723
+15;"Union La Calera";"Curico Unido";243555
+15;"Union La Calera";"Deportes Antofagasta";1.01641e+06
+15;"Union La Calera";"Deportes La Serena";319508
+15;"Union La Calera";"Everton";40461.1
+15;"Union La Calera";"Huachipato";474705
+15;"Union La Calera";"Nublense";434309
+15;"Union La Calera";"O'Higgins";160775
+15;"Union La Calera";"Palestino";95465.4
+15;"Union La Calera";"Santiago Wanderers";48914.6
+15;"Union La Calera";"Union Espanola";85400.4
+15;"Union La Calera";"Universidad Catolica";94156.5
+15;"Union La Calera";"Universidad de Chile";93435.7
+15;"Union La Calera";"Universidad de Concepcion";478146
+16;"Universidad Catolica";"Audax Italiano";17648.7
+16;"Universidad Catolica";"Cobresal";798807
+16;"Universidad Catolica";"Colo-Colo";15711.3
+16;"Universidad Catolica";"Coquimbo Unido";389616
+16;"Universidad Catolica";"Curico Unido";187918
+16;"Universidad Catolica";"Deportes Antofagasta";1.0815e+06
+16;"Universidad Catolica";"Deportes La Serena";393963
+16;"Universidad Catolica";"Everton";105168
+16;"Universidad Catolica";"Huachipato";442467
+16;"Universidad Catolica";"Nublense";387001
+16;"Universidad Catolica";"O'Higgins";89648.9
+16;"Universidad Catolica";"Palestino";21161.5
+16;"Universidad Catolica";"Santiago Wanderers";113850
+16;"Universidad Catolica";"Union Espanola";14731.9
+16;"Universidad Catolica";"Union La Calera";94156.5
+16;"Universidad Catolica";"Universidad de Chile";12736.4
+16;"Universidad Catolica";"Universidad de Concepcion";444052
+17;"Universidad de Chile";"Audax Italiano";8996.96
+17;"Universidad de Chile";"Cobresal";807559
+17;"Universidad de Chile";"Colo-Colo";4699.84
+17;"Universidad de Chile";"Coquimbo Unido";395137
+17;"Universidad de Chile";"Curico Unido";177303
+17;"Universidad de Chile";"Deportes Antofagasta";1.08927e+06
+17;"Universidad de Chile";"Deportes La Serena";399751
+17;"Universidad de Chile";"Everton";99477.4
+17;"Universidad de Chile";"Huachipato";430643
+17;"Universidad de Chile";"Nublense";376192
+17;"Universidad de Chile";"O'Higgins";80172.3
+17;"Universidad de Chile";"Palestino";8512.73
+17;"Universidad de Chile";"Santiago Wanderers";107624
+17;"Universidad de Chile";"Union Espanola";8041.3
+17;"Universidad de Chile";"Union La Calera";93435.7
+17;"Universidad de Chile";"Universidad Catolica";12736.4
+17;"Universidad de Chile";"Universidad de Concepcion";432339
+18;"Universidad de Concepcion";"Audax Italiano";426515
+18;"Universidad de Concepcion";"Cobresal";1.2176e+06
+18;"Universidad de Concepcion";"Colo-Colo";428500
+18;"Universidad de Concepcion";"Coquimbo Unido";777541
+18;"Universidad de Concepcion";"Curico Unido";260712
+18;"Universidad de Concepcion";"Deportes Antofagasta";1.48297e+06
+18;"Universidad de Concepcion";"Deportes La Serena";785088
+18;"Universidad de Concepcion";"Everton";443867
+18;"Universidad de Concepcion";"Huachipato";9995.54
+18;"Universidad de Concepcion";"Nublense";84525.9
+18;"Universidad de Concepcion";"O'Higgins";358904
+18;"Universidad de Concepcion";"Palestino";424042
+18;"Universidad de Concepcion";"Santiago Wanderers";440201
+18;"Universidad de Concepcion";"Union Espanola";435949
+18;"Universidad de Concepcion";"Union La Calera";478146
+18;"Universidad de Concepcion";"Universidad Catolica";444052
+18;"Universidad de Concepcion";"Universidad de Chile";432339
